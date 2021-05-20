@@ -1,7 +1,10 @@
 # Microloans & Microlending: Ironhack F.P
+![image](https://user-images.githubusercontent.com/80153432/119024531-73e30e00-b9a3-11eb-9622-d1f41fbfd9e1.png)
+Photo Source: Kiva.com
 
-![image](https://user-images.githubusercontent.com/80153432/119021320-96732800-b99f-11eb-827d-91f0e3064195.png)
-Photo Source
+# What is Kiva?
+Is an international nonprofit, founded in 2005 in San Francisco, with a mission to expand financial access to help underserved communities thrive.
+
 # May 2021
 
 Exploring the data, Wranglingand Cleaning, Developing a Machine Learning Model and creating Visualisations on Kiva Loans a dataset got from Kaggle(https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding).
@@ -69,6 +72,9 @@ Also several libraries were heavily relied on for plotting visualisations and an
 - stats model
 - datetime
 - scipy
+
+# The WorkFlow
+![image](https://user-images.githubusercontent.com/80153432/119024207-2070c000-b9a3-11eb-9bc9-9aaf085efd5f.png)
 
 
 # Visualisation
