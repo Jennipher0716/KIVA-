@@ -79,7 +79,7 @@ Also several libraries were heavily relied on for plotting visualisations and an
 
 # Visualisation
 Tableau visualise distinctive  plots, grapths, pie charts and dashboards so that the data is analysed and understood more meaningfuly to draw insights. 
-Tableau visualizations for this project can be found under this link; 
+Tableau visualizations for this project can be found under this link; https://public.tableau.com/profile/jennipher.k5909#!/vizhome/Kiva___InProgress/Story1?publish=yes
 ![image](https://user-images.githubusercontent.com/80153432/119027476-aa6e5800-b9a6-11eb-88d7-d3ed0a301e56.png)
 
 
