@@ -1,11 +1,11 @@
+# May 2021
+
 # Microloans & Microlending: Ironhack F.P
 ![image](https://user-images.githubusercontent.com/80153432/119024531-73e30e00-b9a3-11eb-9622-d1f41fbfd9e1.png)
 Photo Source: Kiva.com
 
 # What is Kiva?
 Is an international nonprofit, founded in 2005 in San Francisco, with a mission to expand financial access to help underserved communities thrive.
-
-# May 2021
 
 Exploring the data, Wranglingand Cleaning, Developing a Machine Learning Model and creating Visualisations on Kiva Loans a dataset got from Kaggle(https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding).
 
